@@ -1,0 +1,21 @@
+district_name,house_type,size,living_size,rooms,toilets,floors,giay_to_phap_ly,gia_ban
+Quận Gò Vấp,"Nhà ngõ, hẻm",60,120,3,2,2,Đã có sổ,6.5
+Quận Bình Thạnh,"Nhà mặt phố, mặt tiền",90,270,5,4,3,Đã có sổ,20.0
+Quận Phú Nhuận,"Nhà ngõ, hẻm",45,90,2,2,2,Đã có sổ,5.8
+Huyện Bình Chánh,Nhà phố liền kề,100,160,3,2,2,Đang chờ sổ,3.2
+Thành phố Thủ Đức,"Nhà ngõ, hẻm",75,150,3,3,2,Đã có sổ,0.5
+Quận Tân Bình,"Nhà ngõ, hẻm",55,110,3,2,2,Đã có sổ,60.0
+Quận 1,"Nhà mặt phố, mặt tiền",120,450,6,6,4,Đã có sổ,48.0
+Quận 3,"Nhà ngõ, hẻm",50,150,3,3,3,Đã có sổ,8.2
+Quận 7,Nhà biệt thự,250,400,5,5,3,Đã có sổ,35.0
+Quận 10,"Nhà ngõ, hẻm",40,80,2,2,2,Đã có sổ,4.9
+Quận 11,"Nhà ngõ, hẻm",48,96,3,2,2,Đang chờ sổ,4.5
+Quận Tân Phú,"Nhà ngõ, hẻm",65,130,3,2,2,Đã có sổ,5.5
+Quận 12,"Nhà ngõ, hẻm",80,160,4,3,2,Đã có sổ,0.35
+Quận Bình Tân,Nhà phố liền kề,70,140,3,3,2,Đã có sổ,5.2
+Huyện Hóc Môn,"Nhà ngõ, hẻm",90,120,2,2,1,Giấy tờ viết tay,1.8
+Huyện Củ Chi,"Nhà ngõ, hẻm",300,150,3,2,1,Đã có sổ,3.8
+Huyện Nhà Bè,Nhà phố liền kề,85,170,4,3,2,Đã có sổ,5.9
+Quận 4,"Nhà ngõ, hẻm",35,70,2,2,2,Đã có sổ,3.6
+Quận 8,"Nhà ngõ, hẻm",52,104,3,2,2,Đã có sổ,4.2
+Thành phố Thủ Đức,Nhà biệt thự,350,600,6,7,3,Đã có sổ,95.0
